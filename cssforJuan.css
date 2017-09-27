@@ -1,0 +1,144 @@
+﻿body { 
+  background-color: #daffba;  
+  font-family: impact;
+  font-size: large;  
+  margin: 5px;
+  line-height: 2; 
+}
+
+#header {     
+   background-color: #ffffff;
+   height: 210px;              
+}
+
+#footer {
+   background-color: #ffffff;
+   height: 105px;
+}
+
+#photo1 {
+   width: 300;
+   float: right;
+}
+
+#photo2 {
+   width: 357px;
+   float: right;
+}
+
+h5 {
+   font-size: .5em;
+   padding: 0px 0px 0px 10px;   
+}
+
+nav {
+   background-color: #666666;
+   color: #8888ff;     
+}
+
+div#tablecontainer {
+     display: table;
+}
+
+div#tablerow {
+      display: table-row;
+}
+
+
+#leftcol {
+   display: table-cell;   
+   width: 160px;
+   text-align: center;
+   background-color: #daffba;
+   border-width: 1px;
+   border-color: #daffba;
+   border-style: solid;
+   padding: 5px;   
+}
+
+#skyscraper {
+   background-color: #daffba;
+   color: #daffba;
+   padding: 10px;
+   height: 80px;
+   margin: 0px 0px 50px 0px;
+}
+
+#link {
+   background-color: #daffba;
+   color: #daffba;
+   padding: 5px 0px 0px 0px;
+   height: 15px;
+}
+
+#main {
+      diplay: table-cell;
+}
+
+button1 {
+       width: 120px;
+       float: center;
+}
+
+#leaderboard {   
+   width: 728px;
+   text-align: center;   
+   background-color: #ff8844;
+   color: #1177cc;
+   border-width: 1px;
+   border-color: black;
+   border-style: solid;
+   margin: 0px 10px 0px 50px;
+   padding: 15px 0px 15px 0px;
+   height: 58px;     
+}
+
+h3#leaderboard{
+   padding: 0px 0px 0px 0px;
+}
+
+h2 {
+   margin: 0px 130px 0px 105px;
+}
+
+#p1 {
+   margin: 0px 130px 0px 150px;
+   padding: 0px 0px 0px 5px;   
+}
+
+#medrect {  
+   border-width: 1px;
+   border-color: #005500;
+   border-style: solid;
+   background-color: #228822;
+   color: #dd88dd;
+   height: 168px;
+   width: 288px;
+   text-align: center;
+   margin: 0px 0px 0px 365px;   
+   padding: 80px 5px 0px 5px;      
+}
+
+#link-4 {
+   border-width: 1px;
+   border-color: black;
+   border-style: solid;
+   background-color: #000033;
+   color: #dd22cc;
+   height: 30px;
+   width: 468px;
+   text-align: center;
+   margin: 0px 0px 0px 191px;
+}
+
+
+h1 {
+   background-color: #1211ff;
+   font-family: sanserif;
+   color: #ffff11;  
+   padding: 45px 25px 44px 485px;
+   background-image: url(webPhOTOS/Wayne.png);
+   background-repeat: no-repeat;
+   background-position: left;
+}
+
